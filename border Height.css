@@ -1,0 +1,35 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+.main-container{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 90px;
+
+}
+.child-container-1{
+    background-color: blue;
+    width: 50%;
+  
+    color: white;
+    height: 400px;
+ padding: 6px;
+ border-radius: 4px;
+    
+
+}
+
+.child-container-2{
+background-color: green;
+width: 50%;
+
+color: white;
+height: 400px;
+margin: auto;
+padding: 6px;
+border-radius: 4px;
+text-align: center;
+}
